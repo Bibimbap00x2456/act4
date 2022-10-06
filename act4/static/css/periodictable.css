@@ -1,0 +1,152 @@
+
+
+			td.Am{
+				border-radius: 10px;
+				color:#ffffff;
+				background-color:#994d00; 
+				text-align:left;
+				padding:5px;
+				font-size:20px;
+				border-style: solid;
+  				border-color: white;
+
+
+			}
+			td.AEM{
+				border-radius: 10px;
+				color:#ffffff;
+				background-color: #b38600;
+				text-align:left;
+				padding:5px;
+				font-size:20px;
+				border-style: solid;
+  				border-color: white;
+			}
+			td.T-M{
+				border-radius: 10px;
+				color:#ffffff;
+				background-color:#b30000;
+				text-align:left;
+				padding:5px;
+				font-size:20px;border-style: solid;
+  				border-color: white;
+			}
+			td.Ptm{
+				border-radius: 10px;
+				color:#ffffff;
+				background-color:#000080;
+				text-align:left;
+				padding:5px;
+				font-size:20px;border-style: solid;
+  				border-color: white;
+			}
+			td.Mloids{
+				border-radius: 10px;
+				color:#ffffff;
+				background-color:#009973;
+				text-align:left;
+				padding:5px;
+				font-size:20px;border-style: solid;
+  				border-color: white;
+			}
+			td.RnmS{
+				border-radius: 15px;
+				color:white;
+				background-color:#004d00;
+				text-align:left;
+				padding:8px;
+				font-size:20px;border-style: solid;
+  				border-color: white;
+			}
+			td.RnmG{
+				border-radius: 10px;
+				color:white;
+				background-color:#004d00;
+				text-align:left;
+				padding:5px;
+				font-size:20px;border-style: solid;
+  				border-color: white;
+			}
+			td.Ngas{
+				border-radius: 10px;
+				color:white;
+				background-color:#600080 ;
+				text-align:left;
+				padding:5px;
+				font-size:20px;border-style: solid;
+  				border-color: white;
+			}	
+			td.lanth{
+				border-radius: 10px;
+				color:#ffffff;
+				background-color:#4d2600 ;
+				text-align:left;
+				padding:5px;
+				font-size:20px;border-style: solid;
+  				border-color: white;
+			}
+			td.acti{
+				border-radius: 10px;
+				color:#ffffff;		
+				background-color:#b30059 ;
+				text-align:left;
+				padding:5px;
+				font-size:20px;border-style: solid;
+  				border-color: white;
+			}
+
+			td.unk{
+				border-radius: 10px;
+				color:#ffffff;		
+				background-color:#0f0f0a;
+				text-align:left;
+				padding:5px;
+				font-size:20px;border-style: solid;
+  				border-color: white;
+			}
+
+			td.LG{
+				border-radius: 10px;
+				color:#ffffff;		
+				background-color:#000000;
+				text-align:left;
+				padding:5px;
+				font-size:20px;border-style: solid;
+  				border-color: white;
+			}
+			td.lavelll{
+				border-radius: 10px;
+				color:#ffffff;
+				text-align:left;
+				padding:5px;
+				font-size:20px;border-style: solid;
+  				border-color: white;
+			}
+			td.lavell{
+				border-radius: 10px;
+				color:#ffffff;
+				text-align:left;
+				padding:5px;
+				font-size:20px;border-style: solid;
+  				border-color: white;
+			}
+
+
+			div#S{
+				color: #cce6ff;
+			}
+			div#L{
+				color: #3399ff;
+			}
+			div#G{
+				color:red;
+			}
+			div#U{
+				color:gray;
+			}
+			div#alll{
+				position: relative;
+				left: -350px;
+
+			}
+
